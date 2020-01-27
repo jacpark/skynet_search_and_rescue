@@ -3,7 +3,7 @@
 #include <ctime>
 
 using namespace std;
-
+ 
 int main()
 {
 	//seed random number generator
